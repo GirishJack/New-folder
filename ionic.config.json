@@ -1,0 +1,7 @@
+{
+  "name": "citymovie",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
